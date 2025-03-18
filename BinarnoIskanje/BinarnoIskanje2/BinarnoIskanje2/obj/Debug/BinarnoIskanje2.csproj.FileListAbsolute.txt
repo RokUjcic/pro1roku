@@ -1,0 +1,7 @@
+D:\Višja Strokovna Šola\PRO\BinarnoIskanje2\BinarnoIskanje2\bin\Debug\BinarnoIskanje2.exe.config
+D:\Višja Strokovna Šola\PRO\BinarnoIskanje2\BinarnoIskanje2\bin\Debug\BinarnoIskanje2.exe
+D:\Višja Strokovna Šola\PRO\BinarnoIskanje2\BinarnoIskanje2\bin\Debug\BinarnoIskanje2.pdb
+D:\Višja Strokovna Šola\PRO\BinarnoIskanje2\BinarnoIskanje2\obj\Debug\BinarnoIskanje2.csproj.AssemblyReference.cache
+D:\Višja Strokovna Šola\PRO\BinarnoIskanje2\BinarnoIskanje2\obj\Debug\BinarnoIskanje2.csproj.CoreCompileInputs.cache
+D:\Višja Strokovna Šola\PRO\BinarnoIskanje2\BinarnoIskanje2\obj\Debug\BinarnoIskanje2.exe
+D:\Višja Strokovna Šola\PRO\BinarnoIskanje2\BinarnoIskanje2\obj\Debug\BinarnoIskanje2.pdb

@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\BinarnoIskanje\BinarnoIskanje\bin\Debug\BinarnoIskanje.exe.config
+C:\Users\PC\source\repos\BinarnoIskanje\BinarnoIskanje\bin\Debug\BinarnoIskanje.exe
+C:\Users\PC\source\repos\BinarnoIskanje\BinarnoIskanje\bin\Debug\BinarnoIskanje.pdb
+C:\Users\PC\source\repos\BinarnoIskanje\BinarnoIskanje\obj\Debug\BinarnoIskanje.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\BinarnoIskanje\BinarnoIskanje\obj\Debug\BinarnoIskanje.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\BinarnoIskanje\BinarnoIskanje\obj\Debug\BinarnoIskanje.exe
+C:\Users\PC\source\repos\BinarnoIskanje\BinarnoIskanje\obj\Debug\BinarnoIskanje.pdb
